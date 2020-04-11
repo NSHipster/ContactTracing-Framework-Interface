@@ -6,6 +6,12 @@ Derived from and annotated with the
 [API documentation][contact tracing framework documentation]
 (retrieved April 10, 2020).
 
+## Additional Resources
+
+- Unofficial documentation generated from
+  the synthesized Swift interface using [`swift-doc`][swift-doc]:
+  https://contact-tracing-framework-documentation.netlify.app
+
 ## License
 
 This project has no affiliation with Apple or Google.
@@ -15,3 +21,4 @@ All rights reserved.
 
 [privacy-preserving contact tracing]: https://www.apple.com/covid19/contacttracing
 [contact tracing framework documentation]: https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ContactTracing-FrameworkDocumentation.pdf
+[swift-doc]: https://github.com/SwiftDocOrg/swift-doc
