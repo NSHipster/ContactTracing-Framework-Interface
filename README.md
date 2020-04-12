@@ -10,7 +10,7 @@ Derived from and annotated with the
 
 - Unofficial documentation generated from
   the synthesized Swift interface using [`swift-doc`][swift-doc]:
-  https://contact-tracing-framework-documentation.netlify.app
+  https://contact-tracing-documentation.nshipster.com
 - Theoretical `ContactTracingManager` convenience API
   for working with the ContactTracing framework:
   https://gist.github.com/mattt/17c880d64c362b923e13c765f5b1c75a
