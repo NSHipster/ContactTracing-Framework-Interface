@@ -1,3 +1,5 @@
+**As of April 29, Apple has renamed the ContactTracing framework to ExposureNotification, and provided [official documentation ](https://developer.apple.com/documentation/exposurenotification). This project will no longer be updated.**
+
 # Contact Tracing Framework
 
 An Objective-C header and synthesized Swift interface for Apple & Google's
